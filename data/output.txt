@@ -1,0 +1,15 @@
+```json
+{
+  "fruits": [
+    "Apple",
+    "Orange",
+    "Tomatos"
+  ],
+  "vegetables": [
+    "Cellery",
+    "Potatos"
+  ]
+}
+```
+
+**Note:** While tomatoes are **botanically fruits** (they develop from the flower and contain seeds), they are often treated as **vegetables** in culinary contexts. Also, please note the spelling corrections: "Celery" (not "Cellery"), "Tomatoes" (not "Tomatos"), and "Potatoes" (not "Potatos").
