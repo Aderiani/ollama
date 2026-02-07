@@ -14,6 +14,7 @@ with open(input_file, 'r') as infile:
     items = infile.read().strip()
     
     
+    
 promt = f"Categorize the following items into fruits and vegetables:\n{items}\nProvide the output in JSON format with two keys: 'fruits' and 'vegetables'."
 
 try :
