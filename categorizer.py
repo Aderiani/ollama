@@ -11,6 +11,8 @@ output_file = "data/output.txt"
 
 
 
+
+
 if not os.path.exists("data"):
     print("Data directory does not exist. Creating 'data' directory.")
     exit(1)
